@@ -28,7 +28,7 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/areebch-dev/Calculator-Project.git
 2. Open index.html in your preferred browser
   ```bash
         start index.html
